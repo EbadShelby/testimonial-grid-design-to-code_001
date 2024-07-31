@@ -1,0 +1,31 @@
+/* ========|| Custom Properties ||======== */
+:root {
+  --clr-primary: hsl(263, 55%, 52%);
+
+  --clr-neutral-100: hsl(0, 0%, 100%);
+  --clr-neutral-200: hsl(210, 46%, 95%);
+  --clr-neutral-300: hsl(0, 0%, 81%);
+  --clr-neutral-500: hsl(217, 19%, 35%);
+  --clr-neutral-800: hsl(219, 29%, 14%);
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-bold: 700;
+
+  --ff-base: "Barlow Semi Condensed", sans-serif;
+
+  --spacing-xsmall: 0.25rem;
+  --spacing-small: 0.5em;
+  --spacing-regular: 1em;
+  --spacing-medium: 2em;
+  --spacing-large: 3em;
+  --spacing-xlarge: 6em;
+
+  --fs-300: 0.8125rem;
+  --fs-400: 0.875rem;
+  --fs-500: 0.9375rem;
+  --fs-600: 1rem;
+  --fs-700: 1.875rem;
+  --fs-800: 2.5rem;
+  --fs-900: 3.5rem;
+}

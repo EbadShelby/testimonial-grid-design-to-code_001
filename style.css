@@ -168,7 +168,7 @@ p {
 @media (min-width: 1200px) {
   .cards-wrapper {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    /* grid-template-columns: repeat(4, 1fr); */
   }
   .card:nth-child(1) {
     grid-column: span 2;

@@ -90,7 +90,9 @@ h6 {
 }
 
 /* ========|| General Styling ||========= */
-
+body {
+  font-family: var(--ff-base);
+}
 /* ==========|| Main Styling ||========== */
 
 /* ============|| Utilities ||=========== */
